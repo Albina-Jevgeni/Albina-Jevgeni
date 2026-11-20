@@ -1,16 +1,15 @@
-## Hi there 👋
+# Olá, eu sou Albina Jevgeni 👋
 
-<!--
-**Albina-Jevgeni/Albina-Jevgeni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bem-vinda ao meu perfil no GitHub.
 
-Here are some ideas to get you started:
+Este espaço reúne meus projetos, estudos e colaborações em desenvolvimento.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Sobre
+- 🌱 Explorando novas tecnologias e boas práticas de desenvolvimento
+- 💻 Criando projetos e compartilhando conhecimento
+- 🤝 Aberta a colaborações e aprendizado contínuo
+
+## Contato
+- GitHub: [@Albina-Jevgeni](https://github.com/Albina-Jevgeni)
+
+> Sempre aprendendo, construindo e evoluindo.
